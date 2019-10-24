@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/chanhyun-portfolio/static/css/main.5c7da384.chunk.css",
+    "main.js": "/chanhyun-portfolio/static/js/main.d48b8435.chunk.js",
+    "main.js.map": "/chanhyun-portfolio/static/js/main.d48b8435.chunk.js.map",
+    "runtime-main.js": "/chanhyun-portfolio/static/js/runtime-main.46efd609.js",
+    "runtime-main.js.map": "/chanhyun-portfolio/static/js/runtime-main.46efd609.js.map",
+    "static/js/2.35f792f2.chunk.js": "/chanhyun-portfolio/static/js/2.35f792f2.chunk.js",
+    "static/js/2.35f792f2.chunk.js.map": "/chanhyun-portfolio/static/js/2.35f792f2.chunk.js.map",
+    "index.html": "/chanhyun-portfolio/index.html",
+    "precache-manifest.e9d469f65bac2d86c44723d2718ba531.js": "/chanhyun-portfolio/precache-manifest.e9d469f65bac2d86c44723d2718ba531.js",
+    "service-worker.js": "/chanhyun-portfolio/service-worker.js",
+    "static/css/main.5c7da384.chunk.css.map": "/chanhyun-portfolio/static/css/main.5c7da384.chunk.css.map",
+    "static/media/daniel_resume.pdf": "/chanhyun-portfolio/static/media/daniel_resume.9d903a97.pdf",
+    "static/media/profile.jpg": "/chanhyun-portfolio/static/media/profile.ee54d9d5.jpg",
+    "static/media/project1.png": "/chanhyun-portfolio/static/media/project1.c8063b37.png",
+    "static/media/project2.png": "/chanhyun-portfolio/static/media/project2.3bf2fabd.png",
+    "static/media/secondhand.png": "/chanhyun-portfolio/static/media/secondhand.93d640fa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46efd609.js",
+    "static/js/2.35f792f2.chunk.js",
+    "static/css/main.5c7da384.chunk.css",
+    "static/js/main.d48b8435.chunk.js"
+  ]
+}
