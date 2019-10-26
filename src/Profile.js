@@ -3,7 +3,11 @@ import profile from "./styles/image/profile.jpg";
 import resume from "./styles/image/daniel_resume.pdf";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFilePdf } from "@fortawesome/free-solid-svg-icons";
-import { faGithub, faInstagram } from "@fortawesome/free-brands-svg-icons";
+import {
+  faGithub,
+  faInstagram,
+  faBlogger
+} from "@fortawesome/free-brands-svg-icons";
 
 function Profile() {
   return (
@@ -24,10 +28,19 @@ function Profile() {
           <div className="text-xs">github</div>
         </a>
         <a
+          href="https://youwaytogo.tistory.com"
+          rel="noopener noreferrer"
+          target="_blank"
+          className="ml-8 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
+        >
+          <FontAwesomeIcon className="text-2xl" icon={faBlogger} />
+          <div className="text-xs">blog</div>
+        </a>
+        <a
           href="https://www.instagram.com/daniel_park30/"
           rel="noopener noreferrer"
           target="_blank"
-          className="mx-5 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
+          className="ml-5 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
         >
           <FontAwesomeIcon className="text-2xl" icon={faInstagram} />
           <div className="text-xs">instagram</div>
@@ -36,7 +49,7 @@ function Profile() {
           href={resume}
           rel="noopener noreferrer"
           target="_blank"
-          className="flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
+          className="ml-4 flex flex-col items-center text-gray-800 cursor-pointer hover:text-teal-500"
         >
           <FontAwesomeIcon className="text-2xl" icon={faFilePdf} />
           <div className="text-xs">resume</div>

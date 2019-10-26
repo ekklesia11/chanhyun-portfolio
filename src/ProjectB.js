@@ -22,6 +22,11 @@ export default function ProjectA() {
                 직장인들이 점심메뉴를 선정할 때 실시간 투표를 통해서 재밌게
                 정하고, 투표결과에 따라 반경 500m 내 거리순으로 식당목록을
                 제공합니다.
+                <br />
+                <br />
+                <div className="font-bold text-gray-800">My role</div>
+                - 실시간 투표 API 구현
+                <br />- 사용자 위치기반 반경 500m 내 거리순 식당목록 제공
               </p>
               <a
                 className="flex-shrink-0 bg-teal-500 hover:bg-teal-400 border-teal-500 hover:border-teal-400 text-sm border-4 text-white py-1 px-2 rounded"

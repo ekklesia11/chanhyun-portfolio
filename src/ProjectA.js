@@ -23,6 +23,14 @@ export default function ProjectA() {
                 중고거래가 활발한 유모차를 시작으로 중고거래 사이트의 크롤링한
                 데이터를 브랜드와 모델로 매칭시켜 중고거래시 기준을 세우는데
                 도움을 주는 어플리케이션입니다.
+                <br />
+                <br />
+                <div className="font-bold text-gray-800">My role</div>
+                - 중고거래 사이트별 크롤링 구현
+                <br />
+                - 게시글 타이틀/내용 필터링 함수 구현 및 브랜드/모델 매칭
+                <br />- 선택가격범위 내 브랜드/모델 검색페이지 구현 및 월/일
+                데이터기반 간략한 그래프 구현
               </p>
               <a
                 className="flex-shrink-0 bg-teal-500 hover:bg-teal-400 border-teal-500 hover:border-teal-400 text-sm border-4 text-white py-1 px-2 rounded"
