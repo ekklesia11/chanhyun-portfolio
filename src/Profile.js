@@ -60,13 +60,10 @@ function Profile() {
           Hi, I'm <span className="text-teal-500">Chanhyun Park</span>
         </div>
         <div className="text-base font-bold mb-5">
-          <span className="text-teal-500">Back-end</span> Developer
+          <span className="text-teal-500">개발자</span> Developer
         </div>
         <div className="text-xl">
           아이디어만 있다면 어디서나 웹/앱서비스를 개발합니다.
-        </div>
-        <div className="text-xl">
-          주로 서버개발을 하고 있습니다만, 프론트엔드도 가끔 합니다.
         </div>
         <div className="text-xl">
           하하, 개발이 너무 재밌습니다.

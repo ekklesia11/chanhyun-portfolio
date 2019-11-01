@@ -38,7 +38,7 @@ export default function ProjectA() {
                 rel="noopener noreferrer"
                 target="_blank"
               >
-                안드로이드앱 바로가기
+                안드로이드앱(Expo QR) 바로가기
               </a>
               <a
                 href="https://github.com/ekklesia11/secondhand-server-repo"
